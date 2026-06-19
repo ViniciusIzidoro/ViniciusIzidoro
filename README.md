@@ -1,41 +1,42 @@
 <div align="center">
 
-# Olá, sou Vinícius Izidoro! 👋
+# Vinícius Izidoro
+### Engenharia de Produção | Data & Analytics
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&section=header&text=Transformando%20Dados%20em%20Decisões&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Transformando%20Dados%20em%20Decisões&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-### 🎓 Estudante de Engenharia de Produção | Data & Analytics
+</div>
+
+## 🎯 Perfil Profissional
+Estudante de Engenharia de Produção, com foco em **Análise de Dados** e **Otimização de Processos**. Minha missão é extrair inteligência de bases complexas para apoiar decisões estratégicas.
 
 ---
 
-## 🚀 Sobre Mim
-Apaixonado por otimização de processos e tecnologia. Transformo dados brutos em inteligência estratégica utilizando ferramentas de análise e automação.
+## 📂 Projetos em Destaque
 
----
+### 📊 Excel
+* **[Dashboard de Performance Industrial](https://github.com/ViniciusIzidoro/dashboard-performance-industrial)** — Análise de eficiência produtiva e indicadores de refugo.
+* **[RH People Analytics](https://github.com/ViniciusIzidoro/rh-people-analytics)** — Gestão estratégica de indicadores de turnover e clima.
 
-## 📂 Principais Projetos
-
-### 📊 Projetos em Excel
-* **[Dashboard de Performance Industrial](https://github.com/ViniciusIzidoro/dashboard-performance-industrial)** | Análise de eficiência e redução de refugo.
-* **[RH People Analytics](https://github.com/ViniciusIzidoro/rh-people-analytics)** | Gestão de indicadores de turnover e clima.
-
-### 📈 Projetos em Power BI
-* **[BI Performance Analytics](https://github.com/ViniciusIzidoro/bi-performance-analytics)** | Dashboards de faturamento e rentabilidade.
-* **[BI Procurement](https://github.com/ViniciusIzidoro/bi-procurement-analytics)** | Análise estratégica de custos e fornecedores.
+### 📈 Power BI
+* **[BI Performance Analytics](https://github.com/ViniciusIzidoro/bi-performance-analytics)** — Dashboards dinâmicos para controle de KPIs de rentabilidade.
+* **[BI Procurement](https://github.com/ViniciusIzidoro/bi-procurement-analytics)** — Análise de custos e performance de fornecedores.
 
 ---
 
 ## 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,excel,powerbi,git,notion,vscode" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,git,notion,vscode" />
+</div>
 
 ---
 
-## 📬 Vamos nos conectar?
-<a href="https://www.linkedin.com/in/vinicius-izidoro">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:viniciusizidoro10@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+## 📬 Contato
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-izidoro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:viniciusizidoro10@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
 </div>
