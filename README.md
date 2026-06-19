@@ -3,12 +3,12 @@
 # Vinícius Izidoro
 ### Engenharia de Produção | Data & Analytics
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Transformando%20Dados%20em%20Decisões&fontSize=35&fontColor=ffffff&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Transformando%20Dados%20em%20Decisões&fontSize=30&fontColor=ffffff" />
 
 </div>
 
 ## 🎯 Sobre Mim
-Estudante de Engenharia de Produção, transformo dados brutos em inteligência estratégica por meio de análise de processos e automação.
+Estudante de Engenharia de Produção, focado em transformar dados brutos em inteligência estratégica por meio de análise de processos e automação.
 
 ---
 
@@ -25,18 +25,13 @@ Estudante de Engenharia de Produção, transformo dados brutos em inteligência 
 ---
 
 ## 🛠 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,git,notion,vscode&perline=6" />
-</div>
+*   **Análise:** Python, Excel, Power BI
+*   **Produtividade:** Git, Notion, VS Code
 
 ---
 
 ## 📬 Contato
-<div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-izidoro">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:viniciusizidoro10@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-</div>
+Para conversas profissionais ou oportunidades:
+
+• **[LinkedIn](https://www.linkedin.com/in/vinicius-izidoro)**
+• **[E-mail](mailto:viniciusizidoro10@gmail.com)**
