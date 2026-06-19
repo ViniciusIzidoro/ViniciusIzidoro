@@ -16,7 +16,7 @@ Estudante de Engenharia de Produção, transformo dados brutos em inteligência 
 
 ### 📊 Excel & VBA
 *   **[Dashboard de Performance Industrial](https://github.com/ViniciusIzidoro/dashboard-performance-industrial)** | Foco em eficiência industrial e redução de refugo.
-*   **[RH People Analytics](https://github.com/ViniciusIzidoro/rh-people-analytics)** | Gestão de indicadores de turnover e clima organizacional.
+*   **[RH People Analytics](https://github.com/ViniciusIzidoro/rh-people-analytics)** | Gestão de indicadores de turnover e clima.
 
 ### 📈 Power BI
 *   **[BI Performance Analytics](https://github.com/ViniciusIzidoro/bi-performance-analytics)** | Dashboards de faturamento e rentabilidade.
@@ -33,10 +33,10 @@ Estudante de Engenharia de Produção, transformo dados brutos em inteligência 
 
 ## 📬 Contato
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-izidoro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vinicius-izidoro" style="margin: 10px;">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #0077B5; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">LinkedIn</button>
   </a>
-  <a href="mailto:viniciusizidoro10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:viniciusizidoro10@gmail.com" style="margin: 10px;">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #D14836; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">E-mail</button>
   </a>
 </div>
