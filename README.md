@@ -1,38 +1,42 @@
 <div align="center">
 
 # Vinícius Izidoro
-**Estudante de Engenharia de Produção | Focado em Análise de Dados e Processos**
+### Engenharia de Produção | Data & Analytics
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Transformando%20Dados%20em%20Decisões&fontSize=35&fontColor=ffffff&fontAlignY=50" />
 
-### Transformando Dados em Decisões
 </div>
 
-## Sobre Mim
-Estudante de Engenharia de Produção focado em transformar dados brutos em inteligência estratégica por meio de análise de dados e otimização de processos.
+## 🎯 Sobre Mim
+Estudante de Engenharia de Produção, transformo dados brutos em inteligência estratégica por meio de análise de processos e automação.
 
 ---
 
-## Principais Projetos
+## 📂 Principais Projetos
 
-### Excel & VBA
-* [Dashboard de Performance Industrial](https://github.com/ViniciusIzidoro/dashboard-performance-industrial) – Análise de eficiência e redução de refugo.
-* [RH People Analytics](https://github.com/ViniciusIzidoro/rh-people-analytics) – Gestão de indicadores de turnover e clima.
+### 📊 Excel & VBA
+*   **[Dashboard de Performance Industrial](https://github.com/ViniciusIzidoro/dashboard-performance-industrial)** | Foco em eficiência industrial e redução de refugo.
+*   **[RH People Analytics](https://github.com/ViniciusIzidoro/rh-people-analytics)** | Gestão de indicadores de turnover e clima organizacional.
 
-### Power BI
-* [BI Performance Analytics](https://github.com/ViniciusIzidoro/bi-performance-analytics) – Dashboards de faturamento e rentabilidade.
-* [BI Procurement](https://github.com/ViniciusIzidoro/bi-procurement-analytics) – Análise estratégica de custos e fornecedores.
-
----
-
-## Tecnologias
-Para o desenvolvimento e análise, utilizo as seguintes ferramentas:
-
-* **Análise e Automação:** Python, Excel, Power BI
-* **Produtividade e Controle:** Git, Notion, VS Code
+### 📈 Power BI
+*   **[BI Performance Analytics](https://github.com/ViniciusIzidoro/bi-performance-analytics)** | Dashboards de faturamento e rentabilidade.
+*   **[BI Procurement](https://github.com/ViniciusIzidoro/bi-procurement-analytics)** | Análise estratégica de custos e fornecedores.
 
 ---
 
-## Contato
-* [LinkedIn](https://www.linkedin.com/in/vinicius-izidoro)
-* [E-mail](mailto:viniciusizidoro10@gmail.com)
+## 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,git,notion,vscode&perline=6" />
+</div>
+
+---
+
+## 📬 Contato
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-izidoro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:viniciusizidoro10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
