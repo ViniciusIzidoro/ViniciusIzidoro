@@ -33,10 +33,10 @@ Estudante de Engenharia de Produção, transformo dados brutos em inteligência 
 
 ## 📬 Contato
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-izidoro" style="margin: 10px;">
-    <button style="padding: 10px 20px; font-size: 16px; background-color: #0077B5; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">LinkedIn</button>
+  <a href="https://www.linkedin.com/in/vinicius-izidoro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:viniciusizidoro10@gmail.com" style="margin: 10px;">
-    <button style="padding: 10px 20px; font-size: 16px; background-color: #D14836; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">E-mail</button>
+  <a href="mailto:viniciusizidoro10@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </div>
